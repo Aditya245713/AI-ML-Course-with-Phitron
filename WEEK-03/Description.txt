@@ -1,0 +1,4 @@
+TOPICS COVERED:
+  1. Numpy pt 1
+  2. Numpy pt 2
+  3. Pandas
